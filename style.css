@@ -1,0 +1,39 @@
+.box2{
+    background-color: darkgray;
+    border:3px solid black;
+    width:30%;
+    /* margin-left: 33%;
+    margin-top:-39.5%; */
+    margin-left: 36%;
+    margin-top: -10.8%;
+}
+.dish2{
+    position: relative; 
+    text-align: right;
+    margin-top:0;
+    margin-bottom: -1.5%; 
+    background-color: rgb(243, 151, 167);
+    border-bottom: 2px solid;
+   
+    
+}
+
+ .box3{
+    background-color: darkgray;
+    border:3px solid black;
+    width:30%;
+    /* margin-left: 66%;
+    margin-top: -38.5%; */
+    margin-left:67%;
+    margin-top: -10.8%;
+}
+.dish3{
+    position: relative; 
+    text-align: right;
+    margin-top:0;
+    margin-bottom: -1.5%; 
+    background-color: rgb(243, 151, 167);
+    border-bottom: 2px solid;
+   
+    
+} 
